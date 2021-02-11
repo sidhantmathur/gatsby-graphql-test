@@ -24,6 +24,7 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
+    `gatsby-plugin-offline`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-emotion`,
     {
